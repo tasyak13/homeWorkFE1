@@ -1,0 +1,51 @@
+img.main_img {
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    display: block;
+    margin: auto;
+}
+
+img.twitter_img {
+    width: 32px;
+    height: 32px;
+}
+
+div {
+    border: 1px solid black;
+    width: 400px;
+    height: 400px;
+    margin: 10px;
+    padding: 20px;
+}
+
+p {
+    font-size: 14px;
+    line-height: 18px;
+}
+
+p.text {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+address, header {
+    padding: 10px;
+}
+
+h1 {
+    color: rgb(23, 182, 57);
+}
+
+h1.about_us_text {
+    letter-spacing: 15px;
+}
+
+img.about_us_img {
+    width: 500px;
+    height: 400px;
+    object-fit: cover;
+}
